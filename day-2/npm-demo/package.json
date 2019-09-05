@@ -1,0 +1,19 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "Demo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "venkatesh",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {}
+}
