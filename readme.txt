@@ -99,6 +99,10 @@ Heroku --> free --> host
 MongoDB Atlas --> Host your MongoDB
 
 
+- Naveen Pete -
+naveen.shenoy.blr@gmail.com
+9886495913
+
 
 
 
